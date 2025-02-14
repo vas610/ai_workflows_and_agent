@@ -21,7 +21,7 @@ logger = logging.getLogger(__name__)
 # -----------------------------------------------------#
 # Define Variables                                     #
 # -----------------------------------------------------#
-MODEL_NAME_1 = "mistral-small"
+MODEL_NAME_1 = "llama3.1"
 MODEL_NAME_2 = "mistral-small"
 
 
