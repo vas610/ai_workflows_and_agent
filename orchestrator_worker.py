@@ -6,6 +6,7 @@ from ollama import ChatResponse, chat
 import os
 import logging
 
+
 # Set up logging configuration
 logging.basicConfig(
     level=logging.INFO,
