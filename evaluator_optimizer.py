@@ -7,6 +7,7 @@ from typing import Dict, List, Literal
 from ollama import ChatResponse, chat
 from pydantic import BaseModel, Field
 
+
 # -----------------------------------------------------#
 # Set up logging configuration                         #
 # -----------------------------------------------------#
